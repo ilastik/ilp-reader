@@ -2,6 +2,9 @@
 
 Read ilastik .ilp files.
 
+![Travis (.com)](https://img.shields.io/travis/com/ilastik/ilp-reader?style=for-the-badge)
+![Codecov](https://img.shields.io/codecov/c/github/ilastik/ilp-reader?style=for-the-badge)
+
 ## Development
 
 - Initial setup:
